@@ -1,6 +1,6 @@
 # Fahren Lernen Dumper
 
-Fahren Lernen Dumper is a command-line tool that downloads all available questions, translations, and media from the Fahren Lernen mobile app API.
+Fahren Lernen Dumper is a command-line tool that downloads all available questions, translations, and media from the Fahren Lernen mobile app API. These questions are used in Germany’s current theoretical driving license test.
 
 ## Prerequisites
 
