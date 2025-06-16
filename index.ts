@@ -80,7 +80,7 @@ if (response.status !== 200) {
 const data = await response.json()
 
 spinner.text = 'Saving questions'
-await Bun.file('dump/questions.json').write(
+await Bun.file(join(directory, '/questions.json')).write(
   join(directory, JSON.stringify(data.questionList.questions))
 )
 
