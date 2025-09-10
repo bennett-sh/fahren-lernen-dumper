@@ -12,7 +12,7 @@ Fahren Lernen Dumper is a command-line tool that downloads all available questio
 Clone the repository and install dependencies:
 
 ```sh
-git clone https://git.bsh.im/fahren-lernen-dumper.git
+git clone https://github.com/bennett-sh/fahren-lernen-dumper.git
 cd fahren-lernen-dumper
 bun install
 ```
